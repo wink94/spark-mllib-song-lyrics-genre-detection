@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator","timestamp":1650080786246,"sparkVersion":"2.4.8","uid":"mcEval_adccdc64950d","paramMap":{"labelCol":"label","predictionCol":"prediction"},"defaultParamMap":{"labelCol":"label","predictionCol":"prediction","metricName":"f1"}}

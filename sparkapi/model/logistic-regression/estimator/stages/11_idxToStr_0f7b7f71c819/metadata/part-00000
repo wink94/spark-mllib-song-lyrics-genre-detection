@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1650080788154,"sparkVersion":"2.4.8","uid":"idxToStr_0f7b7f71c819","paramMap":{"inputCol":"prediction","labels":["blues","country","hip hop","jazz","metal","pop","reggae","rock"],"outputCol":"predictedLabel"},"defaultParamMap":{"outputCol":"idxToStr_0f7b7f71c819__output"}}
