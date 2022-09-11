@@ -1,0 +1,6 @@
+rootProject.name = 'spark-mlib-assessment'
+include ':spark-library'
+include ':api'
+
+project(':spark-library').projectDir = "$rootDir/spark-library" as File
+project(':api').projectDir = "$rootDir/api" as File
